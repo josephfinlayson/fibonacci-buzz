@@ -11,9 +11,11 @@ Your challenge is to create a Fibonacci Buzz program!
 - Otherwise, if the Fibonacci number is divisible by 3, then output Buzz instead of the number. 
 
 #Rules
+
 - The program should take no input.
 - The program should output a new line (`\n`) after every entry.
 - The program **must** output the entries (starting from 1) until termination.
+- Any programming language is valid
 
 Here are the 100 entries of expected output:
 
@@ -119,8 +121,8 @@ Here are the 100 entries of expected output:
     Buzz
 
 
-Bonus points
+Extra credit
 ===
 
-- Code should be written in Python or similar scripting language
-- Code will be submitted to github
+- Code is written in Python or a similar scripting language
+- Code will be submitted to GitHub
