@@ -13,7 +13,6 @@ Your challenge is to create a Fibonacci Buzz program!
 #Rules
 - The program should take no input.
 - The program should output a new line (`\n`) after every entry.
-- The program should **not** print anything to STDERR.
 - The program **must** output the entries (starting from 1) until termination.
 
 Here are the 100 entries of expected output:
