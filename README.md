@@ -15,7 +15,7 @@ Your challenge is to create a Fibonacci Buzz program!
 - The program should take no input.
 - The program should output a new line (`\n`) after every entry.
 - The program **must** output the entries (starting from 1) until termination.
-- Any programming language is valid
+- Any programming language is valid - if you don't have access to a computer, even pseudocode on paper is valid!
 
 Here are the 100 entries of expected output:
 
